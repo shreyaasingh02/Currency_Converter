@@ -1,0 +1,1 @@
+# Currency Converter is a JavaScript-based tool that enables quick and accurate conversion between USD and INR with a smooth and interactive user experience.
